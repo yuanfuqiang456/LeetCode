@@ -1,9 +1,10 @@
 package Array;
 /*
  * author yfq
- * Time 2019.3.9字符数组中所有元素的排列。
+ * Time 2019.3.9
+ * 字符数组中所有元素的排列。
  */
-public class Permtation {
+public class Permutation {
     public static void main(String[] args)
     {
         String s  = "abc";
