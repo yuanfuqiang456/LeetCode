@@ -1,6 +1,10 @@
 package StackAndQueue;
 import java.util.*;
-//栈的压入 弹出序列 压栈元素均不相等
+//栈的压入 弹出序列 压栈元素均不相countOne.java
+//MovingCount.java
+//MatrixPath.java
+//singleTon_2.java
+//FibonacciList.java等
 public class PopAndPushSeq {
     public static void main(String[] args)
     {
