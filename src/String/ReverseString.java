@@ -10,7 +10,7 @@ public class ReverseString {
         char[] c = s.toCharArray();
         int len = c.length;
         swap(c,0,c.length);
-//        for(int i = 0;i<len/2;i++)
+//        for(int i = 0;i<len/2;i++)HuiWen.java
 //        {
 //            char tem = c[i];
 //            c[i] = c[len-1-i];
