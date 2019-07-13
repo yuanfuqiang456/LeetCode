@@ -1,0 +1,12 @@
+张三;24;Peking University
+李四;24;Northwestern Polytechnical University
+张五;27;Xidian University
+赵六;30;Wuhan University
+孙伟;23;Tsinghua University
+张超;24;Peking University
+李明;24;Northwestern Polytechnical University
+张迎;27;Xidian University
+赵四;30;Wuhan University
+王坤;23;Tsinghua University
+孙伟;23;Tsinghua University
+刘帅;25;Fudan University
